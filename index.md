@@ -20,5 +20,6 @@ Besonders hervorzuheben ist, meine ich:
 
 > wahrheitsliebend
 
+### Hierzu ein Charakterbild
 
 img src="https://narabo.de/wp-content/uploads/2020/04/Narabo-Wahrheit-Philosophie-1140x660.jpg"

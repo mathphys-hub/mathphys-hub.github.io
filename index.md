@@ -12,3 +12,10 @@ genügsam, einfühlend, aufmerksam, humorvoll, liebreizend, usw.
 * hilfsbereit
 * einfühlend
 * humorvoll
+
+
+### Zitat eines Charakters:
+
+Besonders hervorzuheben ist, meine ich:
+
+> wahrheitsliebend
